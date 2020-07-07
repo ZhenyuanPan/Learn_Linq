@@ -6,7 +6,7 @@ namespace Learn_Linq
 {
     class Program
     {
-        
+        public string name;
         static void Main(string[] args)
         {
             #region linq查询并排序

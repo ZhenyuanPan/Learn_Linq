@@ -7,7 +7,7 @@ namespace 协变与逆变
     public abstract class Animal { }
     public class Dog : Animal
     {
-        
+        private string name;
     }
 
     class Program

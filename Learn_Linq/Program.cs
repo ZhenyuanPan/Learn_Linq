@@ -6,6 +6,7 @@ namespace Learn_Linq
 {
     class Program
     {
+        string makeCalsh = "";
         static void Main(string[] args)
         {
             #region linq查询并排序

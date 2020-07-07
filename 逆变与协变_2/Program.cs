@@ -56,7 +56,7 @@ namespace 逆变与协变_2
     //}
 
     public abstract class Animal { };
-    public class Dog : Animal { };
+    public class Dog : Animal { string name => "小狗"; };
 
     public interface IMyList<in T>
     {

@@ -6,7 +6,7 @@ namespace Learn_Linq
 {
     class Program
     {
-        string makeCalsh = "制造冲突";
+        string makeCalsh = "";
         static void Main(string[] args)
         {
             #region linq查询并排序
